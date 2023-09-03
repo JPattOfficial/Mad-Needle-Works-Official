@@ -16,3 +16,10 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+body {
+    background-image: url('/path/to/your/image.jpg');
+    background-size: cover; /* Cover the entire screen */
+    background-repeat: no-repeat; /* Do not repeat the image */
+    background-attachment: fixed; /* Fix the background position */
+}

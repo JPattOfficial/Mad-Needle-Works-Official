@@ -1,0 +1,7 @@
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\MadNeedleWorksOfficialWebsite.exe
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\MadNeedleWorksOfficialWebsite.dll
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\MadNeedleWorksOfficialWebsite.deps.json
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\MadNeedleWorksOfficialWebsite.runtimeconfig.json
+C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\obj\Release\net6.0\PubTmp\Out\MadNeedleWorksOfficialWebsite.pdb
