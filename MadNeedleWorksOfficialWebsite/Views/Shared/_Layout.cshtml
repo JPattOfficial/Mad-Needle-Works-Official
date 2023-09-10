@@ -25,15 +25,28 @@
                         <li class="nav-item">
                             <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Privacy">Privacy</a>
                         </li>
+                        <li class="nav-item">
+                            <a class="nav-link text-dark" asp-area="" asp-controller="Portfolio" asp-action="Portfolio">My Portfolio</a>
+                        </li>
                     </ul>
                 </div>
             </div>
         </nav>
+        <style>
+            body {
+                /* Add your image path relative to the wwwroot folder */
+                background-image: url('~/Images/SunFlowerBG.png');
+            }
+        </style>
     </header>
     <div class="container">
         <main role="main" class="pb-3">
             @RenderBody()
         </main>
+    </div>
+
+    <div>
+
     </div>
 
     <script src="~/lib/jquery/dist/jquery.min.js"></script>

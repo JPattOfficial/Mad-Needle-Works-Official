@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "WsGe7gsAwMnBMtF5x+2JmzeuuUVux9DKasuEHzOegEg=",
+  "Hash": "sy1rGhBRKIBRSwIM9KdSkBUDVAcFarWf6bYVlsDaErk=",
   "Source": "MadNeedleWorksOfficialWebsite",
   "BasePath": "_content/MadNeedleWorksOfficialWebsite",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\Images\\SunFlowerBG.png",
+      "SourceId": "MadNeedleWorksOfficialWebsite",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\",
+      "BasePath": "_content/MadNeedleWorksOfficialWebsite",
+      "RelativePath": "Images/SunFlowerBG.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\SunFlowerBG.png"
     },
     {
       "Identity": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\js\\site.js",

@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\MadNeedleWorksOfficialWebsite.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\Images\\SunFlowerBG.png",
+      "PackagePath": "staticwebassets\\Images\\SunFlowerBG.png"
+    },
+    {
       "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
