@@ -16,8 +16,16 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/CustomRequests.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21SZXF1ZXN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Patterns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXR0ZXJucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Portfolio.cshtml]
