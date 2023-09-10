@@ -23,3 +23,38 @@ body {
     background-repeat: no-repeat; /* Do not repeat the image */
     background-attachment: fixed; /* Fix the background position */
 }
+
+/* Navbar customization */
+
+:root {
+    --bs-primary: #007bff; /* Replace with your primary color */
+    --bs-primary-rgb: 0,123,255; /* Replace with the RGB values of your primary color */
+    --bs-primary-bg-subtle: rgba(0, 123, 255, 0.1); /* Replace with a subtle background color */
+    --bs-primary-border-subtle: rgba(0, 123, 255, 0.5); /* Replace with a subtle border color */
+    --bs-primary-text-emphasis: #ffffff; /* Replace with your text color */
+}
+
+/* Navbar background */
+.custom-navbar {
+    background-color: var(--bs-primary);
+    color: var(--bs-primary-text-emphasis);
+}
+
+/* Link styles */
+.custom-navbar .nav-link {
+    color: var(--bs-primary-text-emphasis);
+}
+
+/* Hover effects */
+.custom-navbar .nav-link:hover {
+    background-color: var(--bs-primary-bg-subtle);
+    border-radius: 5px;
+}
+
+/* On-click effects (focus and active states) */
+.custom-navbar .nav-link:focus,
+.custom-navbar .nav-link:active {
+    background-color: var(--bs-primary-bg-subtle);
+    border: 1px solid var(--bs-primary-border-subtle);
+    border-radius: 5px;
+}
