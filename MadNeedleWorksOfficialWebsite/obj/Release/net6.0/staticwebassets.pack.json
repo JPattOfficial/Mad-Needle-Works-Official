@@ -5,6 +5,22 @@
       "PackagePath": "staticwebassets\\MadNeedleWorksOfficialWebsite.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\Images\\ComingSoon1.jpg",
+      "PackagePath": "staticwebassets\\Images\\ComingSoon1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\Images\\SunFlowerBG.png",
+      "PackagePath": "staticwebassets\\Images\\SunFlowerBG.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\Images\\SunFlowerBG2.png",
+      "PackagePath": "staticwebassets\\Images\\SunFlowerBG2.png"
+    },
+    {
+      "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\Images\\SunFlowerIcon.png",
+      "PackagePath": "staticwebassets\\Images\\SunFlowerIcon.png"
+    },
+    {
       "Id": "C:\\Users\\Owner\\Documents\\GitHub\\Portfolio Website\\Mad-Needle-Works-Official2\\MadNeedleWorksOfficialWebsite\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
