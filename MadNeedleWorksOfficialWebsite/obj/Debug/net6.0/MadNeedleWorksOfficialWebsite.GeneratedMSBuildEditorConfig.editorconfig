@@ -9,53 +9,55 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MadNeedleWorksOfficialWebsite
 build_property.RootNamespace = MadNeedleWorksOfficialWebsite
-build_property.ProjectDir = C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite\
+build_property.ProjectDir = C:\Users\HeSpe\Documents\GitHub\Mad-Needle-Works-Official\MadNeedleWorksOfficialWebsite\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Owner\Documents\GitHub\Portfolio Website\Mad-Needle-Works-Official2\MadNeedleWorksOfficialWebsite
+build_property.MSBuildProjectDirectory = C:\Users\HeSpe\Documents\GitHub\Mad-Needle-Works-Official\MadNeedleWorksOfficialWebsite
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/CustomRequests.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Home/CustomRequests.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDdXN0b21SZXF1ZXN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Index.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Patterns.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Home/Patterns.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQYXR0ZXJucy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Portfolio.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Home/Portfolio.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQb3J0Zm9saW8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Privacy.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Home/Products.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Home/Products.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9kdWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Shared/Error.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/_ViewImports.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/_ViewStart.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Owner/Documents/GitHub/Portfolio Website/Mad-Needle-Works-Official2/MadNeedleWorksOfficialWebsite/Views/Shared/_Layout.cshtml]
+[C:/Users/HeSpe/Documents/GitHub/Mad-Needle-Works-Official/MadNeedleWorksOfficialWebsite/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-u9mfbeeh5k
