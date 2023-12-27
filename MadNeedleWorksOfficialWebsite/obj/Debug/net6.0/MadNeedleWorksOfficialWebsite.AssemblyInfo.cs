@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MadNeedleWorksOfficialWebsite")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b799642f2cd67a5a9c83fa500ad37e1802d38b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+066ed8df21cc542eca292e7085a1c708d100e408")]
 [assembly: System.Reflection.AssemblyProductAttribute("MadNeedleWorksOfficialWebsite")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MadNeedleWorksOfficialWebsite")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
